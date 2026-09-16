@@ -1,92 +1,87 @@
-# Hi there, I'm **Mohanad Sherby** !     <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
-I'm a passionate DevOps Engineer 🧑 with a CKA certification. I'm enthusiastic about cloud-native technologies and infrastructure automation! ☁️🚀
+# Hi there, I'm **Mohanad Sherby**! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45px" width="45px">
 
+### Senior DevOps Engineer · AWS • Kubernetes • Terraform • GitOps • Cloud Security
 
-✨ **What's Next?**
-As a passionate DevOps engineer with a CKA certification, I'm excited to dive deeper into the cloud-native ecosystem! 🚀 Currently enhancing my Kubernetes orchestration skills and building robust CI/CD pipelines. My GitOps journey with tools like ArgoCD and Flux is just beginning, and I'm enthusiastically expanding my AWS knowledge every day. I love automating infrastructure and solving complex deployment challenges - always eager to learn and grow in this amazing DevOps world!
+I'm a DevOps engineer with **3+ years** owning AWS and Kubernetes (EKS) platforms end to end — from Terraform-provisioned infrastructure through Jenkins CI, Argo CD delivery and 24/7 production operations. **CKA, CKAD & CKS certified**, I build security and observability *into* the pipeline rather than bolting them on afterwards. ☁️🚀
 
----
-
-## **🙋‍♂️ About me**
-
-
-- 🎓 Proudly **CKA certified** and passionate about all things Kubernetes! 🚢
-- 💻 Enthusiastically building experience with **CI/CD pipelines**, **GitOps workflows**, and **AWS cloud services**
-- 🌱 I'm currently learning - Monitoring with ELK Stack and expanding my cloud-native toolkit
-- 💡 I'm super passionate about containerization, infrastructure as code, and automating everything!
-- 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
-- I'm passionate about solving complex deployment challenges through automation and continuously improving my skills in this rapidly evolving DevOps landscape!
-
-  
----
-
-## 🛠️ DevOps Tools and Technologies:
-
-<p align="left" style="display: flex; align-times: center"> 
-    <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img width="45px" style="margin-right:5px;" src="https://static-00.iconduck.com/assets.00/amazon-eks-icon-455x512-0zairb3r.png" alt="AWS EKS"/></a>
-    <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://img.icons8.com/dusk/48/docker.png" alt="Docker"/></a> 
-    <a href="https://www.kubernetes.io" target="_blank" title="Kubernetes"><img width="45px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" alt="Kubernetes"/></a> 
-    <a href="https://ansible.com" target="_blank" title="Ansible"><img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/></a> 
-    <a href="https://ubuntu.com/" target="_blank" title="Ubuntu"><img src="https://img.icons8.com/color/48/linux.png" alt="Ubuntu"/></a> 
-    <a href="https://aws.com/" target="_blank" title="Amazon Web Services"><img width="45px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="Amazon Web Services"/></a>  
-    <!-- <a href="https://www.openstack.org/" target="_blank" title="OpenStack"><img src="https://img.icons8.com/color/48/000000/openstack.png" alt="OpenStack"/></a> -->
-    <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
-    <a href="https://kind.sigs.k8s.io/" target="_blank" title="Kind"><img width="50px" src="https://kind.sigs.k8s.io/logo/logo.png" alt="Kind"/></a>
-    <a href="https://argoproj.github.io/argo-cd/" target="_blank" title="Argo CD"><img width="48px" src="https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/images/argo.webp" alt="Argo CD"/></a>
-    <a href="https://fluxcd.io/" target="_blank" title="Flux"><img width="45px" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="Flux"/></a>
-    <!-- <a href="https://www.openshift.com/" target="_blank" title="OpenShift"><img src="https://img.icons8.com/color/48/000000/openshift.png" alt="OpenShift"/></a> -->
-    <a href="https://www.sonatype.com/nexus" target="_blank" title="Nexus"><img width="45px" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="Nexus"/></a>
-    <!-- <a href="https://k3s.io/" target="_blank" title="K3s"><img width="48px" src="https://store.cncf.io/cdn/shop/products/K3S-decal.png?v=1619636683" alt="K3s"/></a> -->
+<p align="left">
+  <img src="https://img.shields.io/badge/CKS-Kubernetes%20Security%20Specialist-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKS"/>
+  <img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA"/>
+  <img src="https://img.shields.io/badge/CKAD-Kubernetes%20App%20Developer-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKAD"/>
+  <img src="https://img.shields.io/badge/KCSA-Cloud%20Native%20Security-0F1689?style=flat-square&logo=cncf&logoColor=white" alt="KCSA"/>
+  <img src="https://img.shields.io/badge/KCNA-Cloud%20Native%20Associate-0F1689?style=flat-square&logo=cncf&logoColor=white" alt="KCNA"/>
 </p>
 
-<br><br>
+---
 
-## 💻 Scripting Languages:
+## 🙋‍♂️ About me
 
-<p align="left" style="display: flex; align-times: center">
-    <a href="https://opensource.com/resources/what-bash" target="_blank" title="Bash"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
-    <a href="https://www.python.org/" target="_blank" title="Python"><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></a>  
+- 🚢 **CKS / CKA / CKAD certified** — Kubernetes is my home turf: cluster hardening, RBAC, network policies and Helm.
+- 🔁 I design and run **CI/CD platforms** (Jenkins → Nexus/JFrog → Argo CD) and **GitOps** workflows with **Argo CD & Flux** — automated sync, self-healing and drift recovery.
+- ☁️ Day-to-day on **AWS** — EKS, VPC, IAM, RDS, ALB/NLB — all provisioned with **Terraform** and **Ansible**.
+- 🛡️ I embed **security as a gate** — Trivy, SonarQube and Checkmarx scanning, plus AWS & Cloudflare WAF.
+- 📊 I run the **observability stack** — Prometheus, Grafana, Datadog and CloudWatch — for alerting, capacity planning and cost reviews.
+- 🌱 Currently going deeper on **service mesh** and **progressive delivery** (Argo Rollouts) and FinOps cost optimization.
+- 💆‍♂️ Off the keyboard — Workout 🏋️‍♂️, Reading 📖, Photography 📸 & Meditation 🧘‍♂️
+
+---
+
+## 🛠️ DevOps Tools & Technologies
+
+<p align="left" style="display: flex; align-items: center">
+    <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS"/></a>
+    <a href="https://aws.amazon.com/eks/" target="_blank" title="Amazon EKS"><img width="45px" style="margin-right:6px;" src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Kubernetes-Service.svg" alt="Amazon EKS"/></a>
+    <a href="https://www.kubernetes.io" target="_blank" title="Kubernetes"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"/></a>
+    <a href="https://www.docker.com" target="_blank" title="Docker"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"/></a>
+    <a href="https://helm.sh/" target="_blank" title="Helm"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm"/></a>
+    <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform"/></a>
+    <a href="https://www.ansible.com/" target="_blank" title="Ansible"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"/></a>
+    <a href="https://www.jenkins.io/" target="_blank" title="Jenkins"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"/></a>
+    <a href="https://argo-cd.readthedocs.io/" target="_blank" title="Argo CD"><img width="45px" style="margin-right:6px;" src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo CD"/></a>
+    <a href="https://fluxcd.io/" target="_blank" title="Flux"><img width="45px" style="margin-right:6px;" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="Flux"/></a>
+    <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" title="Nexus Repository"><img width="45px" style="margin-right:6px;" src="https://cdn.simpleicons.org/sonatype/1B1C30" alt="Nexus"/></a>
+    <a href="https://jfrog.com/artifactory/" target="_blank" title="JFrog Artifactory"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="JFrog Artifactory"/></a>
+    <a href="https://prometheus.io/" target="_blank" title="Prometheus"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus"/></a>
+    <a href="https://grafana.com/" target="_blank" title="Grafana"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana"/></a>
+    <a href="https://www.datadoghq.com/" target="_blank" title="Datadog"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog"/></a>
+    <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" title="SonarQube"><img width="45px" style="margin-right:6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube"/></a>
+    <a href="https://trivy.dev/" target="_blank" title="Trivy"><img width="45px" style="margin-right:6px;" src="https://cdn.simpleicons.org/trivy/1904DA" alt="Trivy"/></a>
+    <a href="https://git-scm.com/" target="_blank" title="Git"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"/></a>
+    <a href="https://ubuntu.com/" target="_blank" title="Linux"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux"/></a>
 </p>
 
 <br>
 
+## 💻 Scripting & Languages
 
+<p align="left" style="display: flex; align-items: center">
+    <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash"/></a>
+    <a href="https://www.python.org/" target="_blank" title="Python"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"/></a>
+    <a href="https://go.dev/" target="_blank" title="Go"><img width="45px" style="margin-right:6px;" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go"/></a>
+</p>
+
+<br>
 
 ---
 
-## **📊 Stats**
+## 📫 How to reach me
 
- <div align="center" style="text-align:center">
-    <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Mohanadsherby&show_icons=true&theme=monokai&count_private=true"
-            alt="Mohanadsherby's Github stats">
+<div align="center" style="text-align:center">
+    <a href="mailto:mohanadsherby@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanadsherby&theme=monokai"
-            alt="Mohanadsherby's Github commit streak">
+    <a href="https://linkedin.com/in/mohanadsherby">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://wakatime.com/@Mohanadsherby/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanadsherby&langs_count=5&theme=tokyonight"
-            alt="Mohanadsherby's wakatime last year stats">
+    <a href="https://github.com/Mohanadsherby">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://claude.ai/artifact/SR43rCHrf8LypqHZiFK2t7">
+        <img src="https://img.shields.io/badge/Portfolio-2F6BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
 
 ---
 
-## **📫 How to reach me**
-<div align="center" style="text-align:center">
-    <a href="mailto:mohanadsherby@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Mohanad's Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/mohanad-sherby">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Mohanads's LinkedIn">
-    </a>
+<p align="center"><i>Made by <b><a href="https://github.com/Mohanadsherby">@MohanadSherby</a></b></i></p>
 
-                                    
----
-
-<br>
-
-_Made by **[@MohanadSherby](https://github.com/Mohanadsherby)**_
